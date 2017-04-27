@@ -1,6 +1,6 @@
-Git setup
+#_Git setup_#
 
-# IF IN PAIRS #
+## IF IN PAIRS ##
 
 #### _First, set up your pairs file_ ####
 
@@ -21,7 +21,7 @@ Touch .pairs file in the home directory, paste in pair text
   7. $ git remote add [any name for repository] [repository URL]
   8. $ git push [your name for repository] master
 
-# IF SOLO #
+## IF SOLO ##
 
 #### _First, configure your user name and email_ ####
 
@@ -35,11 +35,9 @@ $ git config --global user.email padma@email.com
 6. $ git remote add [any name for repository] [repository URL]
 7. $ git push [your name for repository] master
 
-# Git Branches #
+## Git Branches ##
 
-$ git branch (view branch names)
-$ git branch [new branch name] (to create new branch)
-$ git checkout [branch name] (to go to branch)
-$ git merge [branch name] (to merge to current branch)
-
-End
+- $ git branch (view branch names)
+- $ git branch [new branch name] (to create new branch)
+- $ git checkout [branch name] (to go to branch)
+- $ git merge [branch name] (to merge to current branch)
