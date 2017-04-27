@@ -37,3 +37,5 @@ $ git branch (view branch names)
 $ git branch [new branch name] (to create new branch)
 $ git checkout [branch name] (to go to branch)
 $ git merge [branch name] (to merge to current branch)
+
+End
