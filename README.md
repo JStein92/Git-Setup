@@ -1,26 +1,30 @@
 Git setup
 
-## IF IN PAIRS ##
-1.
+# IF IN PAIRS #
+
+#### _First, set up your pairs file_ ####
+
 Touch .pairs file in the home directory, paste in pair text
- - Pairs -
-pairs:
-  al: Ada Lovelace
-  edlf: Enrique de la Fuente
-email:
-  al: adanator@me.com
-  edlf: queenrique@gmail.com
+
+      pairs:
+        al: Ada Lovelace
+        edlf: Enrique de la Fuente
+      email:
+        al: adanator@me.com
+        edlf: queenrique@gmail.com
 
   2. $ git init to initialize repository in current folder path
   3. $ git pair [initials] [initials]
   4. $ git add [filename], or $git add . (to add all files)
   5. $ git-pair-commit -m"note"
-  6. create git hub repository or use existing, copy repository URL
+  6. Create git hub repository or use existing, copy repository URL
   7. $ git remote add [any name for repository] [repository URL]
   8. $ git push [your name for repository] master
 
-## IF SOLO ##
-1.
+# IF SOLO #
+
+#### _First, configure your user name and email_ ####
+
 $ git config --global user.name "Padma Patil"
 $ git config --global user.email padma@email.com
 
@@ -31,7 +35,7 @@ $ git config --global user.email padma@email.com
 6. $ git remote add [any name for repository] [repository URL]
 7. $ git push [your name for repository] master
 
-## Git Branches ##
+# Git Branches #
 
 $ git branch (view branch names)
 $ git branch [new branch name] (to create new branch)
