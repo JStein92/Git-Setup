@@ -25,8 +25,8 @@ Touch .pairs file in the home directory, paste in pair text
 
 #### _First, configure your user name and email_ ####
 
-$ git config --global user.name "Padma Patil"
-$ git config --global user.email padma@email.com
+- $ git config --global user.name "Padma Patil"
+- $ git config --global user.email padma@email.com
 
 2. $ git init to initialize repository in current folder path
 3. $ git add [filename], or $git add . (to add all files)
