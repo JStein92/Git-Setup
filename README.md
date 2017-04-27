@@ -1,4 +1,4 @@
-#_Git setup_#
+# _Git setup_ #
 
 ## IF IN PAIRS ##
 
