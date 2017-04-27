@@ -6,12 +6,12 @@ Git setup
 
 Touch .pairs file in the home directory, paste in pair text
 
-      pairs:
-        al: Ada Lovelace
-        edlf: Enrique de la Fuente
-      email:
-        al: adanator@me.com
-        edlf: queenrique@gmail.com
+pairs:
+  al: Ada Lovelace
+  edlf: Enrique de la Fuente
+email:
+  al: adanator@me.com
+  edlf: queenrique@gmail.com      
 
   2. $ git init to initialize repository in current folder path
   3. $ git pair [initials] [initials]
